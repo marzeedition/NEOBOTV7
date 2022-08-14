@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "18254857668@s.whatsapp.net", 
-    "ownerName": "Dzz Official", 
-    "botName": "AFABOT-STORE",
-    "footer": "© WIBUSOFT | 2022", 
+    "ownerNumber": "6289515791535@s.whatsapp.net", 
+    "ownerName": "SPLACEKING", 
+    "botName": "KHOIRUL-BOT",
+    "footer": "© KHOIRUL-BOT | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -10,7 +10,7 @@
     "yootube": "https://youtube.com/",
      
     "QrisAllPay": "https://telegra.ph/file/808edecae8036e1c18549.png",
-    "textBarisDonate1": "Dana : 0853-2995-6360",
+    "textBarisDonate1": "Dana : 0895-1579-1535",
     "textBarisDonate2": "Ovo : 0823-2434-4519",
     "textBarisDonate3": "Gopay : 08xxxxxxxxx",
     "textBarisDonate4": "Pulsa : 08xxxxxxxxx",
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Dzz Official"
+        "packname": "© Botwa",
+        "author": "Splaceking"
     }
 }
